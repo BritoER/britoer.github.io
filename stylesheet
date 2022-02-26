@@ -1,7 +1,4 @@
 <style> 
-body {
-  margin: 0;
-}
 .sample-header{
   position: relative;
   left: 0;
