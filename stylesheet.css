@@ -1,11 +1,11 @@
-<style> 
+<style>
 .sample-header{
-  position: relative;
+  position: absolute;
   left: 0;
   top: 0;
   width: 100%;
   height: 700px;
-  background-image: url(gogh2.jpeg);
+  background-image: url('gogh2.jpeg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
